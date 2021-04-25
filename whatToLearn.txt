@@ -1,0 +1,5 @@
+To Learn :
+- Linear Algebra
+- Learn Pandas
+- Learn Numpy
+- Learn Data Visualization
