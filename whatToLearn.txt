@@ -3,3 +3,5 @@ To Learn :
 - Learn Pandas
 - Learn Numpy
 - Learn Data Visualization
+- Learn Data Analyst
+- Learn Cloud Computing
